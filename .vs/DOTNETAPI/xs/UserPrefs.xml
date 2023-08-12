@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7D40D490-5E00-46D0-83B1-829D135C8442}|http">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DOTNETAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DOTNETAPI/Controllers/UserController.cs">
+    <Files>
+      <File FileName="DOTNETAPI/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="DOTNETAPI/Properties/launchSettings.json" Line="10" Column="5" />
+      <File FileName="DOTNETAPI/Program.cs" Line="39" Column="28" />
+      <File FileName="DOTNETAPI/Controllers/UserController.cs" Line="17" Column="80" />
+      <File FileName="DOTNETAPI/appsettings.json" Line="7" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DOTNETAPI" expanded="True" selected="True">
+            <Node name="DOTNETAPI">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
