@@ -5,13 +5,13 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DOTNETAPI/Controllers/UserController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DOTNETAPI/Data/DataContextDapper.cs">
     <Files>
       <File FileName="DOTNETAPI/Properties/launchSettings.json" />
       <File FileName="DOTNETAPI/Program.cs" />
-      <File FileName="DOTNETAPI/Controllers/UserController.cs" Line="132" Column="1" />
+      <File FileName="DOTNETAPI/Controllers/UserController.cs" Line="133" Column="1" />
       <File FileName="DOTNETAPI/appsettings.json" />
-      <File FileName="DOTNETAPI/Data/DataContextDapper.cs" Line="22" Column="4" />
+      <File FileName="DOTNETAPI/Data/DataContextDapper.cs" Line="3" Column="7" />
       <File FileName="DOTNETAPI/Models/Users.cs" Line="13" Column="14" />
       <File FileName="DOTNETAPI/DTOs/User.cs" Line="17" Column="5" />
       <File FileName="DOTNETAPI/Data/DataContextEF.cs" Line="37" Column="43" />
@@ -22,12 +22,11 @@
         <State name="__root__">
           <Node name="DOTNETAPI">
             <Node name="DOTNETAPI">
-              <Node name="Controllers" expanded="True">
-                <Node name="UserEFController.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data">
+                <Node name="DataContextDapper.cs" selected="True" />
               </Node>
-              <Node name="Data" expanded="True" />
-              <Node name="DTOs" expanded="True" />
-              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
