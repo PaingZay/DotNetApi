@@ -1,30 +1,38 @@
 ﻿<Properties StartupConfiguration="{7D40D490-5E00-46D0-83B1-829D135C8442}|http">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.DOTNETAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="DOTNETAPI/Controllers/UserController.cs">
     <Files>
-      <File FileName="DOTNETAPI/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
-      <File FileName="DOTNETAPI/Properties/launchSettings.json" Line="10" Column="5" />
-      <File FileName="DOTNETAPI/Program.cs" Line="39" Column="28" />
-      <File FileName="DOTNETAPI/Controllers/UserController.cs" Line="17" Column="80" />
-      <File FileName="DOTNETAPI/appsettings.json" Line="7" Column="32" />
+      <File FileName="DOTNETAPI/Properties/launchSettings.json" />
+      <File FileName="DOTNETAPI/Program.cs" />
+      <File FileName="DOTNETAPI/Controllers/UserController.cs" Line="132" Column="1" />
+      <File FileName="DOTNETAPI/appsettings.json" />
+      <File FileName="DOTNETAPI/Data/DataContextDapper.cs" Line="22" Column="4" />
+      <File FileName="DOTNETAPI/Models/Users.cs" Line="13" Column="14" />
+      <File FileName="DOTNETAPI/DTOs/User.cs" Line="17" Column="5" />
+      <File FileName="DOTNETAPI/Data/DataContextEF.cs" Line="37" Column="43" />
+      <File FileName="DOTNETAPI/Models/UserSalary.cs" Line="11" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DOTNETAPI" expanded="True" selected="True">
+          <Node name="DOTNETAPI">
             <Node name="DOTNETAPI">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Properties" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="UserEFController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="DTOs" expanded="True" />
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DOTNETAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
